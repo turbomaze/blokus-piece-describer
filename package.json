@@ -1,13 +1,13 @@
 {
-  "name": "abhi-board-game",
+  "name": "blokus-piece-describer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Anthony Liu",
+  "license": "MIT",
   "dependencies": {
     "cafezinho": "^1.0.0"
   }
