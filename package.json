@@ -1,0 +1,14 @@
+{
+  "name": "abhi-board-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cafezinho": "^1.0.0"
+  }
+}
